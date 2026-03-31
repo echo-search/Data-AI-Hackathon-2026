@@ -33,12 +33,15 @@ This dashboard was developed as part of the Data & AI Hackathon 2026, showcasing
 
 ## Project Structure
 
-- **assets/**
-  - css/
-  - js/
-  - data/
-- **index.html**
-- **README.txt**
+```text
+/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── data/
+├── index.html
+└── README.txt
+```
 
 ## Purpose
 Provides transparent climate analytics, comparative insights, and supports education, research, and policy discussions.
