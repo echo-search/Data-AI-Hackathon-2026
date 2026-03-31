@@ -71,9 +71,29 @@ Developed for the **Data & AI Hackathon 2026**, this dashboard focuses on clear,
 /
 ├── assets/
 │   ├── css/
-│   ├── js/
-│   └── data/
+│   │   └── index-style.css
+│   └── js/
+│       └── index-script.js
+├── data/
+│   ├── INT-Export-02-25-2026_14-58-07.csv
+│   ├── all_countries_comparisons.csv
+│   ├── all_countries_emissions_comparison.csv
+│   ├── carbon_footprint_analysis.csv
+│   ├── emissions_summary.csv
+│   ├── ultimate_emissions_comparison.csv
+│   ├── uploaded_external_0.csv
+│   └── uploaded_external_1.csv
+├── presentations/
+│   └── Carbon_Emissions_Dashboard_Presentation.pptx
+├── scripts/
+│   ├── claud.py
+│   └── claud_updated.py
+├── dashboards/
+│   ├── carbon_emissions_dashboard_2026.html
+│   └── updated_dashboard_31-3-2026.html
 ├── index.html
+├── README.csv
+├── README.docx
 └── README.md
 ```
 
