@@ -68,7 +68,7 @@ Developed for the **Data & AI Hackathon 2026**, this dashboard focuses on clear,
 
 ## 📁 Project Structure
 ```text
-/
+/ Data-AI-Hackathon-2026
 ├── assets/
 │   ├── css/
 │   │   └── index-style.css
